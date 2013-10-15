@@ -1,0 +1,10 @@
+<project name="OLAT">
+  <bannerLeft>
+	<name>OLAT Generated Documentation</name>
+	<src>images/olat_logo2_72.png</src>
+	<href>http://www.olat.org/</href>
+</bannerLeft>
+  <body>
+    <menu ref="reports"/>
+</body>
+</project>
